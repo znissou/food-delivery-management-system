@@ -2,7 +2,7 @@
 
 Laravel 7 REST API backend for a multi-restaurant food delivery platform with two Android mobile apps: **Client App** for customers and **Manager App** for restaurant owners.
 
-![Class Diagram]()
+![Class Diagram](https://github.com/user-attachments/assets/b193d476-7ea2-40eb-a5a1-7a0743e79ea8)
 
 ---
 
