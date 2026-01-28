@@ -19,7 +19,7 @@ This repository consists of **four main components**:
 
 <img src="https://github.com/user-attachments/assets/5433d52e-a8b0-4a69-9000-6036a6d78f8e" 
      alt="System Architecture Diagram" 
-     width="700" />
+     height="500" />
 
 The system follows a **client-server architecture** with three layers:
 
